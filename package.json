@@ -1,0 +1,47 @@
+{
+    "name": "tokyo-night",
+    "displayName": "Tokyo Night Pure",
+    "description": "A pure tokyo night theme without any compromises.",
+    "version": "0.0.1",
+    "publisher": "nishantg96",
+    "license": "MIT",
+    "keywords": [
+        "theme",
+        "dark",
+        "tokyo",
+        "pure"
+    ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+    "repository": {
+        "url": "https://github.com/enkia/tokyo-night-vscode-theme",
+        "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#1a1b26",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tokyo Night Pure",
+                "uiTheme": "vs-dark",
+                "path": ".themes/tokyo-night-pure-color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    }
+}
