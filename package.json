@@ -2,7 +2,7 @@
     "name": "tokyo-night-pure",
     "displayName": "Tokyo Night Pure",
     "description": "A pure tokyo night theme without any compromises.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "nishantg96",
     "license": "MIT",
     "keywords": [
@@ -36,7 +36,7 @@
             {
                 "label": "Tokyo Night Pure",
                 "uiTheme": "vs-dark",
-                "path": ".themes/tokyo-night-pure-color-theme.json"
+                "path": "./themes/tokyo-night-pure-color-theme.json"
             }
         ]
     },
