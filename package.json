@@ -12,13 +12,13 @@
         "pure"
     ],
     "icon": "icon.png",
-    "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+    "homepage": "https://github.com/nishantg96/Tokyo-Night-Pure-VSCode",
     "repository": {
-        "url": "https://github.com/enkia/tokyo-night-vscode-theme",
+        "url": "https://github.com/nishantg96/Tokyo-Night-Pure-VSCode",
         "type": "git"
     },
     "bugs": {
-        "url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
+        "url": "https://github.com/nishantg96/Tokyo-Night-Pure-VSCode/issues"
     },
     "galleryBanner": {
         "color": "#1a1b26",
